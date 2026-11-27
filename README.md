@@ -10,4 +10,4 @@ Minha stack principal é Python, SQL, Pandas e scikit-learn. No dia a dia, tamb�
 
 Um dos meus projetos recentes é uma **previsão de doença cardíaca**, em que comparei modelos de Machine Learning usando validação cruzada.
 
-Se quiser falar comigo, é só chamar no [LinkedIn](https://www.linkedin.com/in/gabrieldeoliveirarodrigues) ou por [e-mail](gabrieldeoliveirarodrigues11@gmail.com)!
+Se quiser falar comigo, é só chamar no [LinkedIn](https://www.linkedin.com/in/gabrieldeoliveirarodrigues) ou por [e-mail](mailto:gabrieldeoliverarodrigues11@gmail.com)

@@ -1,16 +1,13 @@
-## Hi there 👋
+### E aí! 🙋
 
-<!--
-**ggabrielrod/ggabrielrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o **Gabriel**, estudante de Análise e Desenvolvimento de Sistemas no Senac, em São Paulo.
 
-Here are some ideas to get you started:
+Estou aprendendo a resolver problemas com Python, dados e Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando *feature engineering* e buscando um estágio em tecnologia.
+
+Minha stack principal é Python, SQL, Pandas e scikit-learn. No dia a dia, também uso Git, GitHub e APIs REST.
+
+Um dos meus projetos recentes é uma **previsão de doença cardíaca**, em que comparei modelos de Machine Learning usando validação cruzada.
+
+Se quiser falar comigo, é só chamar no [LinkedIn](https://www.linkedin.com/in/gabrieldeoliveirarodrigues) ou por [e-mail](gabrieldeoliveirarodrigues11@gmail.com)!
